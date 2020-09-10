@@ -33,7 +33,7 @@
         }
     }
     $x = "background-image: url('../repository/img/";
-    $x .= $theme;
+    $x = $theme; //this comment delete from code and firstly if code shows error add . to befor = to themes
     $x .= ".jpg');";
   
     if ($_SERVER['REQUEST_METHOD'] == 'POST') 
