@@ -1,6 +1,7 @@
 # iMails-The-Mailing-Site
 
-All copyrights reserved by iMails 2019
+All copyrights reserved by iMails 2020
+you can also host your file on server as recomended to go through some tutorials of server hosting,data management before using it you can also use some server hostings like goddady etc
 
 **Steps to start project:**
 
