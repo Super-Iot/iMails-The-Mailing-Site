@@ -31,9 +31,5 @@ you can also host your file on server as recomended to go through some tutorials
     
 Thank You for your support!!!
 
-**Please follow us on:**
-
-https://www.facebook.com/InvertBitt/  </br>
-https://youtu.be/dPcJc_htxw8  </br>
-https://twitter.com/Ankesh_AAG  </br>
-https://github.com/ankesh06g  </br>
+ps:dont forget my work and also if it shows i forked from someone i never forked it and also remember when create email i suggest to be ending like @imail.tk 
+example myname@imail.tk it could be changed if you add some .com like thing in extension but remember add those and edit code alot but also i recomend using mine
